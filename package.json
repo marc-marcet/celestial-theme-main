@@ -1,0 +1,21 @@
+{
+  "name": "lunar-theme",
+  "displayName": "Lunar Theme",
+  "description": "Made with 💜 for 🌙",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunar-color-theme.json"
+      }
+    ]
+  }
+}
