@@ -3,6 +3,7 @@
   "displayName": "Lunar Theme",
   "description": "Made with 💜 for 🌙",
   "repository": "https://github.com/marc-marcet/lunar-theme",
+  "publisher": "MarcMarcet",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
